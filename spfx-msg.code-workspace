@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "spfx-msgsender"
+		},
+		{
+			"path": "spfx-msgreceiver"
+		}
+	],
+    "settings": {}
+}

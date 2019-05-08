@@ -1,0 +1,14 @@
+{
+    "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+    "solution": {
+        "name": "msg-receiver",
+        "id": "33a0c8c9-178f-4a31-a8d2-2bf99ef48c08",
+        "version": "1.0.0.0",
+        "includeClientSideAssets": true,
+        "skipFeatureDeployment": true,
+        "isDomainIsolated": true
+    },
+    "paths": {
+        "zippedPackage": "solution/msg-receiver.sppkg"
+    }
+}
